@@ -8,3 +8,6 @@ Assignment 1
 
 Assignment 2
 ![image](https://user-images.githubusercontent.com/97422732/199187876-4ebcb537-808c-4da6-8ddd-bfb2bb4f2f85.png)
+
+Assignment3
+![image](https://user-images.githubusercontent.com/97422732/199207453-17a898c4-c51b-4138-9f38-0d8e38433872.png)
