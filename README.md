@@ -7,4 +7,4 @@ Assignment 1
 ![image](https://user-images.githubusercontent.com/97422732/199160493-feaf7127-92fe-4297-867a-3650bb8a5c03.png)
 
 Assignment 2
-![image](https://user-images.githubusercontent.com/97422732/199187400-8ffcf8f1-052d-4d13-a91f-cf0310687cdc.png)
+![image](https://user-images.githubusercontent.com/97422732/199187876-4ebcb537-808c-4da6-8ddd-bfb2bb4f2f85.png)
